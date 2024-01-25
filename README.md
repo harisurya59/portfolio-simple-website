@@ -12,7 +12,7 @@ Welcome to my portfolio website! This repository contains the source code for my
 - [License](#license)
 
 ## Demo
-You can view the live demo of my portfolio website []
+You can view the live demo of my portfolio website [https://harisurya59.github.io/portfolio-simple-website/]
 
 ## Features
 - Simple and clean design
